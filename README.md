@@ -1,4 +1,6 @@
-##YouTube Clone 
+###YOUTUBE CLONE
+
+
 Project Overview
 This project is a YouTube clone built using React for the front-end and Node.js with Express for the back-end. The application allows users to register, log in, view videos, create channels, comment on videos, and more. The back-end is connected to a MongoDB database to store user data, video metadata, and comments.
 
