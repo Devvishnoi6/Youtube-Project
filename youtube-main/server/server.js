@@ -7,7 +7,7 @@ const cors = require("cors");
 // import
 const AuthRoutes = require("./route/User.Route.js");
 const VideoRoutes = require("./route/Video.Route.js");
-const CommentRoutes = require("./route/Commnet.Route.js");
+const CommentRoutes = require("./route/Comment.Route.js");
 
 dotenv.config();
 connectDB();
